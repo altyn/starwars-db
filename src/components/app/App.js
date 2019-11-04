@@ -101,7 +101,6 @@ export default class App extends Component {
                                         )}
                                 />
                             </Switch>
-                            <Route render={() => <h2>Page not Found!</h2>}/>
                             <Footer/>
                         </div>
                     </Router>

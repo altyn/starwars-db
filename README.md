@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52ae4ee3-7d5a-4c7a-ab8a-7d3759d69cf5/deploy-status)](https://app.netlify.com/sites/starwars-db/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
